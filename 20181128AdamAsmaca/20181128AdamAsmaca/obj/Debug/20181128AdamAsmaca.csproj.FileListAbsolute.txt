@@ -1,0 +1,7 @@
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181128AdamAsmaca\20181128AdamAsmaca\bin\Debug\20181128AdamAsmaca.exe.config
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181128AdamAsmaca\20181128AdamAsmaca\bin\Debug\20181128AdamAsmaca.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181128AdamAsmaca\20181128AdamAsmaca\bin\Debug\20181128AdamAsmaca.pdb
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181128AdamAsmaca\20181128AdamAsmaca\obj\Debug\20181128AdamAsmaca.csprojAssemblyReference.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181128AdamAsmaca\20181128AdamAsmaca\obj\Debug\20181128AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181128AdamAsmaca\20181128AdamAsmaca\obj\Debug\20181128AdamAsmaca.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181128AdamAsmaca\20181128AdamAsmaca\obj\Debug\20181128AdamAsmaca.pdb
